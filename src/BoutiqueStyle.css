@@ -1,0 +1,20 @@
+.basket {
+  padding-bottom: 15px;  
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.buyButton {
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.basketContent {
+    font-size: 20px;
+    font-weight: bold ;
+}
+
+.buttonBox {
+    display: flex;
+    justify-content: space-between;
+}
